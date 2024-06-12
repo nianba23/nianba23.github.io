@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as t}from"./chunks/framework.oNtUbm1h.js";const u=JSON.parse('{"title":"vite 教程","description":"","frontmatter":{},"headers":[],"relativePath":"guild/vite.md","filePath":"guild/vite.md"}'),e={name:"guild/vite.md"},l=t("",11),n=[l];function h(p,k,r,d,o,c){return i(),a("div",null,n)}const v=s(e,[["render",h]]);export{u as __pageData,v as default};
