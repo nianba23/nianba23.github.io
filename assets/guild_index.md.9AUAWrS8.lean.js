@@ -1,0 +1,1 @@
+import{_ as l,o as i,c as a,R as t}from"./chunks/framework.oNtUbm1h.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guild/index.md","filePath":"guild/index.md"}'),e={name:"guild/index.md"},o=t("",40),r=[o];function n(p,s,u,h,d,c){return i(),a("div",null,r)}const m=l(e,[["render",n]]);export{g as __pageData,m as default};
