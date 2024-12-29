@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as p,R as o}from"./chunks/framework.oNtUbm1h.js";const b=JSON.parse('{"title":"踩坑","description":"","frontmatter":{},"headers":[],"relativePath":"core/bug.md","filePath":"core/bug.md"}'),t={name:"core/bug.md"},r=o("",11),e=[r];function n(i,c,h,l,_,m){return s(),p("div",null,e)}const u=a(t,[["render",n]]);export{b as __pageData,u as default};
